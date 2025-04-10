@@ -19,8 +19,7 @@
     "url": "https://github.com/janaipakos/ghibliapi.git"
   },
   "scripts": {
-    "start": "node index",
-    "test": "node test/app"
+    "start": "node index"
   },
   "dependencies": {
     "clone": "^1.0.2",
